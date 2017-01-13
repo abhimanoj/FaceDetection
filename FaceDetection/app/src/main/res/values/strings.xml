@@ -1,0 +1,57 @@
+<resources>
+<string name="subscription_key">6984f113fc75431cb5f3e6d1a1d4ad18</string>
+
+<!-- Main activity -->
+<string name="detection">FaceDetection</string>
+
+<!-- Tips to get subscription key shown on main activity-->
+<string name="app_name">FaceDetection</string>
+<string name="add_subscription_key_tip_title">Subscription Key is Needed</string>
+<string name="add_subscription_key_tip">Please put your subscription key to source file \"app/res/values/strings.xml\" to enable Face API calls.</string>
+
+<!-- Detection activity -->
+<string name="image">Image:</string>
+<string name="select_image">Select Image</string>
+<string name="result">Result:</string>
+<string name="detect">Detect</string>
+
+<!-- Verification activity -->
+<string name="verify">Verify</string>
+<string name="face_0">Face0:</string>
+<string name="face_1">Face1:</string>
+<string name="manage_persons">Manage\nPersons</string>
+<string name="verification_menu">Verification\nMenu</string>
+
+<!-- Verification activity -->
+<string name="face">Face:</string>
+<string name="group">Group</string>
+
+<!-- Identification activity -->
+<string name="identify">Identify</string>
+<string name="manage_person_groups">Manage\nPerson\nGroups</string>
+<string name="person_groups">Person Groups</string>
+<string name="target_image">Target image</string>
+<string name="faces">Faces in image</string>
+
+<!-- Person group management activities -->
+<string name="delete">Delete</string>
+<string name="done_and_save">Save</string>
+
+
+
+<!-- Common in all activities -->
+<string name="progress_dialog_title">Please wait</string>
+<string name="view_log">View Log</string>
+
+<!-- Select image activity -->
+<string name="select_an_image">Select an Image</string>
+<string name="take_photo">Take a Photo</string>
+<string name="select_image_in_album">From Gallery</string>
+
+<!-- Logs -->
+<string name="log">Log:</string>
+<string name="detection_log">Detection Log</string>
+<string name="verification_log">Verification Log</string>
+<string name="identification_log">Identification Log</string>
+
+</resources>
